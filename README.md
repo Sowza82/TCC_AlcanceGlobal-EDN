@@ -1,0 +1,1 @@
+# TCC_EscalaGlobal-EDN
