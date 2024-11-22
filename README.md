@@ -1,5 +1,3 @@
-# TCC_AlcanceGlobalaws-EDN
-
 # TCC Equipe Alcance Global - Sky Way Consultorias 
 
 📖 **Sobre o Projeto**  
