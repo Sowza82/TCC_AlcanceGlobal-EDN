@@ -1,9 +1,9 @@
-# TCC_EscalaGlobalaws-EDN
+# TCC_AlcanceGlobalaws-EDN
 
-# TCC Equipe Escala Global - Sky Way Consultorias 
+# TCC Equipe Alcance Global - Sky Way Consultorias 
 
 📖 **Sobre o Projeto**  
-Este repositório contém a solução de Escala Global na AWS desenvolvida pela Sky Way Consultorias, em parceria com a Nova Tech, uma startup de e-commerce com ambições de crescimento global. Nosso desafio foi criar uma infraestrutura escalável, robusta e eficiente, alinhada às melhores práticas da AWS, respeitando um orçamento inicial de até $10.000,00 para implementação e custos mensais recorrentes de $500,00.
+Este repositório contém a solução de Alcance Global na AWS desenvolvida pela Sky Way Consultorias, em parceria com a Nova Tech, uma startup de e-commerce com ambições de crescimento global. Nosso desafio foi criar uma infraestrutura escalável, robusta e eficiente, alinhada às melhores práticas da AWS, respeitando um orçamento inicial de até $10.000,00 para implementação e custos mensais recorrentes de $500,00.
 
 🚀 **Objetivo**  
 O projeto visa criar uma infraestrutura tecnológica moderna e resiliente para a Nova Tech, com foco em:
@@ -70,12 +70,50 @@ O desenvolvimento do projeto seguiu o seguinte cronograma:
 - **Fase 3**: Testes de escalabilidade e otimização de custos (2 semanas).
 - **Fase 4**: Monitoramento e ajustes finais (2 semanas).
 
+
+
+## Competências do Futuro
+
+**Equipe Sky Way Consultorias:**  
+Alessandra Cavalcante, Dionatanael Mesquita, Edlucas Souza, Francisco Dourakine, Kesy Rosa, Michely Prado, **Tatiane Souza**
+
+### Como lidamos com o tema central:  
+Nosso foco foi desenvolver e aplicar as **Competências do Futuro**, integrando habilidades técnicas e comportamentais essenciais para o mercado de trabalho moderno.
+
+### Desafios e Soluções:
+
+#### 1. Colaboração em equipe  
+- **Desafio**: Coordenação eficiente entre membros com diferentes ideias.  
+- **Solução**: Utilização de ferramentas colaborativas, como reuniões regulares e plataformas de gerenciamento de tarefas.
+
+#### 2. Resolução de problemas  
+- **Desafio**: Limitações de orçamento e escopo para a arquitetura AWS.  
+- **Solução**: Estudo das melhores práticas da AWS e análise de alternativas econômicas para otimizar os custos.
+
+#### 3. Pensamento crítico e inovação  
+- **Desafio**: Desenvolver uma arquitetura escalável e segura dentro das limitações.  
+- **Solução**: Realização de análises detalhadas e sessões de brainstorming para identificar soluções eficazes.
+
+#### 4. Gestão de tempo  
+- **Desafio**: Cumprir o prazo estabelecido sem comprometer a qualidade do trabalho.  
+- **Solução**: Divisão equilibrada de tarefas com prazos intermediários para garantir entregas dentro do cronograma.
+
+### Competências Desenvolvidas:
+
+- **Tecnologia e fluência digital**: Domínio de soluções AWS e integração eficaz com a arquitetura da plataforma.
+- **Flexibilidade e adaptabilidade**: Capacidade de ajustar processos e estratégias conforme surgem novos desafios.
+- **Comunicação efetiva**: Troca clara e objetiva de informações, o que contribuiu para evitar falhas e melhorar a produtividade.
+
+O projeto **Nova Tech** foi uma experiência enriquecedora, desenvolvendo competências essenciais para os desafios do mercado e entregando soluções inovadoras e alinhadas às melhores práticas da AWS. A colaboração entre os membros da equipe e o desenvolvimento de habilidades técnicas e comportamentais reforçam nossa capacidade de inovar, resolver problemas complexos e entregar resultados de qualidade.
+
+
 📜 **Conclusão**  
 Este projeto não só representou a construção de uma solução tecnológica para a Nova Tech, mas também foi uma oportunidade de aplicar as melhores práticas da AWS em um cenário de e-commerce global. Com a solução implementada, a Nova Tech está pronta para enfrentar os desafios do crescimento acelerado e expandir suas operações de forma eficiente e segura.
 
 A parceria estratégica entre Sky Way Consultorias e Nova Tech resultou em uma infraestrutura robusta, preparada para suportar a transformação digital da empresa e a sua expansão global.
 
 ---
+
 
 ## **Landing Page Desenvolvida com Habilidades em Front-End e UX/UI Design**
 
