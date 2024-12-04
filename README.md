@@ -29,8 +29,10 @@ A solução foi projetada com uma arquitetura escalável, com os seguintes compo
 - **S3**: Armazenamento de conteúdo estático (como imagens e arquivos).  
 - **RDS**: Banco de dados relacional, com instâncias configuradas para alta disponibilidade e failover.  
 - **CloudWatch**: Monitoramento em tempo real da infraestrutura.  
-- **Route 53**: Gestão do tráfego DNS e failover para garantir alta disponibilidade.  
-**Diagrama da infraestrutura**
+- **Route 53**: Gestão do tráfego DNS e failover para garantir alta disponibilidade.
+
+  
+🏗️** Diagrama da infraestrutura elaborada**
   
 ![Diagrama da Arquitetura do Projeto](./sky%20way%20consultoria/imgs/estrutura.png)  
 
