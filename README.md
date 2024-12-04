@@ -119,7 +119,7 @@ A parceria estratégica entre Sky Way Consultorias e Nova Tech resultou em uma i
 Foi criada uma **landing page** para dar uma idendidade a Sky Way Consultorias , aproveitando as habilidades adquiridas em **Front-End**, **UX/UI Design**, e **Design Gráfico**. A página foi desenvolvida com **HTML**, **CSS** e **JavaScript**, oferecendo uma experiência visual atrativa e interativa aos visitantes, enquanto também otimiza a navegação e usabilidade. A integração dessas habilidades permitiu a criação de um design moderno e responsivo, alinhado com as tendências atuais de design web.
 
 
-![Imagem da Landing Page do Projeto](sky%20way%20consultorias/imgs/landing%20page.png)
+![Imagem da Landing Page do Projeto](sky%20way%20consultoria/imgs/landing%20page.png)
 
 
 ---
