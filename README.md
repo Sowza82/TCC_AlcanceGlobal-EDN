@@ -121,6 +121,7 @@ Foi criada uma **landing page** para dar uma idendidade a Sky Way Consultorias ,
 
 ![Imagem da Landing Page do Projeto](sky%20way%20consultorias/imgs/landing%20page.png)
 
+
 ---
 
 📚 **Referências**  
