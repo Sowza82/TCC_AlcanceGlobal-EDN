@@ -55,7 +55,7 @@ A solução foi construída com foco na segurança, utilizando as seguintes prá
 
 ---
 
-## **Equipe Sky Way Consultorias**
+## **Equipe Alcance Global**
 
 **Membros:**  
 - Alessandra Cavalcante  
