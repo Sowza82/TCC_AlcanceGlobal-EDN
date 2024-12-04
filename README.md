@@ -30,7 +30,8 @@ A solução foi projetada com uma arquitetura escalável, com os seguintes compo
 - **RDS**: Banco de dados relacional, com instâncias configuradas para alta disponibilidade e failover.  
 - **CloudWatch**: Monitoramento em tempo real da infraestrutura.  
 - **Route 53**: Gestão do tráfego DNS e failover para garantir alta disponibilidade.  
-
+**Diagrama da infraestrutura**
+  
 ![Diagrama da Arquitetura do Projeto](./sky%20way%20consultoria/imgs/estrutura.png)  
 
  
