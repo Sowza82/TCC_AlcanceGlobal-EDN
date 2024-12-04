@@ -105,6 +105,7 @@ Nosso foco foi desenvolver e aplicar as **Competências do Futuro**, integrando 
 O projeto **Nova Tech** foi uma experiência enriquecedora, desenvolvendo competências essenciais para os desafios do mercado e entregando soluções inovadoras e alinhadas às melhores práticas da AWS. A colaboração entre os membros da equipe e o desenvolvimento de habilidades técnicas e comportamentais reforçam nossa capacidade de inovar, resolver problemas complexos e entregar resultados de qualidade.
 
 
+
 📜 **Conclusão**  
 Este projeto não só representou a construção de uma solução tecnológica para a Nova Tech, mas também foi uma oportunidade de aplicar as melhores práticas da AWS em um cenário de e-commerce global. Com a solução implementada, a Nova Tech está pronta para enfrentar os desafios do crescimento acelerado e expandir suas operações de forma eficiente e segura.
 
@@ -117,7 +118,8 @@ A parceria estratégica entre Sky Way Consultorias e Nova Tech resultou em uma i
 
 Foi criada uma **landing page** para dar uma idendidade a Sky Way Consultorias , aproveitando as habilidades adquiridas em **Front-End**, **UX/UI Design**, e **Design Gráfico**. A página foi desenvolvida com **HTML**, **CSS** e **JavaScript**, oferecendo uma experiência visual atrativa e interativa aos visitantes, enquanto também otimiza a navegação e usabilidade. A integração dessas habilidades permitiu a criação de um design moderno e responsivo, alinhado com as tendências atuais de design web.
 
-![Slide da Apresentação do Projeto](https://youtu.be/t8B_Sq1eX_8?si=pyJQadTIPQgJ6h-5)
+
+![Imagem da Landing Page do Projeto](sky%20way%20consultorias/imgs/landing%20page.png)
 
 ---
 
