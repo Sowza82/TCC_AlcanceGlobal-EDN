@@ -31,7 +31,7 @@ A solução foi projetada com uma arquitetura escalável, com os seguintes compo
 - **CloudWatch**: Monitoramento em tempo real da infraestrutura.
 - **Route 53**: Gestão do tráfego DNS e failover para garantir alta disponibilidade.
 
-![Diagrama da Arquitetura do Projeto](link-da-imagem-diagrama)
+![Diagrama da Arquitetura do Projeto](./sky%20way%20consultoria/imgs/estrutura.png)
 
 Aqui você pode adicionar um diagrama da arquitetura do projeto para ilustrar melhor a solução.
 
@@ -117,7 +117,7 @@ A parceria estratégica entre Sky Way Consultorias e Nova Tech resultou em uma i
 
 Foi criada uma **landing page** para dar uma idendidade a Sky Way Consultorias , aproveitando as habilidades adquiridas em **Front-End**, **UX/UI Design**, e **Design Gráfico**. A página foi desenvolvida com **HTML**, **CSS** e **JavaScript**, oferecendo uma experiência visual atrativa e interativa aos visitantes, enquanto também otimiza a navegação e usabilidade. A integração dessas habilidades permitiu a criação de um design moderno e responsivo, alinhado com as tendências atuais de design web.
 
-![Slide da Apresentação do Projeto](link-do-slide)
+![Slide da Apresentação do Projeto](https://youtu.be/t8B_Sq1eX_8?si=pyJQadTIPQgJ6h-5)
 
 ---
 
