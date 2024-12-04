@@ -33,8 +33,7 @@ A solução foi projetada com uma arquitetura escalável, com os seguintes compo
 
 ![Diagrama da Arquitetura do Projeto](./sky%20way%20consultoria/imgs/estrutura.png)  
 
-🔗 **Calculadora de Custos**: [AWS Calculator](https://calculator.aws/#/estimate?id=da29287fceea938bcd5e6eb0e89faf58c9065720)  
-
+ 
 💡 **Soluções Implementadas**  
 Durante o desenvolvimento do projeto, foi necessário considerar e implementar soluções específicas para garantir que a Nova Tech pudesse crescer de maneira eficiente e sustentável:
 
@@ -44,6 +43,8 @@ Durante o desenvolvimento do projeto, foi necessário considerar e implementar s
 
 📊 **Custos**  
 A solução foi projetada para se manter dentro de um orçamento inicial de $10.000,00, com custos mensais recorrentes de aproximadamente $500,00. Essa otimização de custos foi uma prioridade, e utilizamos as ferramentas da AWS para monitorar e ajustar a infraestrutura conforme a demanda, garantindo o uso eficiente dos recursos.
+
+🔗 **Calculadora de Custos**: [AWS Calculator](https://calculator.aws/#/estimate?id=da29287fceea938bcd5e6eb0e89faf58c9065720) 
 
 🔐 **Segurança**  
 A solução foi construída com foco na segurança, utilizando as seguintes práticas:
